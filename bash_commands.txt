@@ -2,3 +2,6 @@ export
 mkdir
 ls
 
+cd 
+clear
+
